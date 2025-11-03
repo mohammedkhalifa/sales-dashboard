@@ -14,4 +14,4 @@ The **Sales Dashboard** provides a clear and interactive overview of sales perfo
 ![Sales Dashboard](sales-dashboard.png)
 
 ### 🔗 **View Full Dashboard**
-[👉 Click here to view on Tableau Public](https://public.tableau.com/app/profile/mohammed.khalifa7230/viz/sales-project_17575827020040/SalesDashboard)
+[👉 Click here to view project](https://public.tableau.com/app/profile/mohammed.khalifa7230/viz/sales-project_17575827020040/SalesDashboard)
