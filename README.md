@@ -15,3 +15,11 @@ The **Sales Dashboard** provides a clear and interactive overview of sales perfo
 
 ### 🔗 **View Full Dashboard**
 [👉 Click here to view project](https://public.tableau.com/app/profile/mohammed.khalifa7230/viz/sales-project_17575827020040/SalesDashboard)
+
+## 🧾 License
+This project is distributed under the [MIT License](LICENSE).
+You’re welcome to use, modify, and distribute it
+
+## 👋 About the Author
+Hello! I’m **Mohammed Khalifa**, an IT professional with a strong passion for data engineering, analytics, and modern data solutions.
+I enjoy transforming raw data into meaningful insights that drive real business value.
